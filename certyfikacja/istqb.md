@@ -13,7 +13,7 @@ Szkolenie zdecydowanie nie jest niezbędne. Wiele jednak zależy od sposobu w ja
 
 Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
-{% embed data="{\"url\":\"http://sjsi.org/oplaty-egzaminacyjne/\",\"type\":\"link\",\"title\":\"Opłaty egzaminacyjne \(ISTQB\) \|\",\"icon\":{\"type\":\"icon\",\"url\":\"http://sjsi.org/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://sjsi.org/oplaty-egzaminacyjne/" %}
 
 ### **Szkolenia do egzaminu na certyfikat ISTQB poziom podstawowy**
 
@@ -31,7 +31,9 @@ Najtańsze egzaminy w naszym kraju aktualnie przeprowadza SJSI:
 
 * [TestCompetence - próbne egzaminy](http://testcompetence.com/) 🌞 💵
 * [Baza ponad 370 pytań AmberTeam](http://www.amberteam.pl/pl/baza-pytan) 🌞
+* [Przykładowy arkusz egzaminacyjny przetłumaczony przez SJSI](http://sjsi.org/ist-qb/do-pobrania/)
 * [ISTQB Simulator Test for Foundation Level Paper](http://toolsqa.com/istqb/istqb-simulator-test-foundation-level-paper-1/)
+* [Kilka przykładowych arkuszy egzaminacyjnych ISTQB przygotowanych przez ASTQB](https://www.astqb.org/get-certified/istqb-syllabi-the-istqb-software-tester-certification-body-of-knowledge/)
 
 ###  ![](../.gitbook/assets/icons8-facebook-50%20%285%29.png) Dyskusje
 

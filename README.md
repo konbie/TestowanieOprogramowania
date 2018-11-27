@@ -1,5 +1,5 @@
 ---
-description: Testowanie oprogramowania jak zacząć. Materiały dla początkujących.
+description: Książka Testowanie Oprogramowania - jak zacząć. Materiały dla początkujących.
 ---
 
 # Testowanie Oprogramowania

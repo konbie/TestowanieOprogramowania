@@ -4,11 +4,12 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 ### **Jak testować**
 
-* [Web Testing Basics - A short guide on how to test a website](http://webtestingbasics.com/page/index)
+{% page-ref page="../testowanie-stron-web.md" %}
 
 ### **Strony do testów manualnych oraz automatyzacji**
 
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
 * [https://asta.pgs-soft.com](https://asta.pgs-soft.com) Automated Software Testing Arena
 * [http://timvroom.com/selenium/playground/](http://timvroom.com/selenium/playground/) Piaskownica z wypisanymi zadaniami do zrealizowania
 * [http://automationpractice.com](http://automationpractice.com) Wirtualny sklep
@@ -24,6 +25,7 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 * [https://instantwp.com](https://instantwp.com) Bardzo szybka możliwość postawienia lokalnie WordPressa
 * [http://the-internet.herokuapp.com](http://the-internet.herokuapp.com) Herokuapp. The internet.
+* [https://restful-booker.herokuapp.com/](https://restful-booker.herokuapp.com/) API sandbox
 
 ### **Aplikacje i strony z zadaniami**
 
@@ -34,4 +36,8 @@ Poniższe strony można dowolnie wykorzystywać do testów manualnych, przy twor
 
 * [http://www.guru99.com/live-testing-project.html](http://www.guru99.com/live-testing-project.html)
 * [http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/](http://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/)
+
+### Dodatkowo:
+
+{% page-ref page="../materialy-dodatkowe/gry-i-zadania.md" %}
 

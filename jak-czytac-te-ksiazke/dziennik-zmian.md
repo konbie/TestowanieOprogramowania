@@ -2,7 +2,18 @@
 
 ### Tablica planowanych zmian, które wejdą do kolejnej wersji
 
-{% embed data="{\"url\":\"https://github.com/pwicherski/TestowanieOprogramowania/projects/1\",\"type\":\"link\",\"title\":\"pwicherski/TestowanieOprogramowania\",\"description\":\"TestowanieOprogramowania - Książka dla początkujących\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/6884051?s=400&v=4\",\"width\":215,\"height\":215,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/pwicherski/TestowanieOprogramowania/projects/1" %}
+
+### 1.0.2 - 2018-09-XX
+
+#### Zmiany
+
+* Dodane materiały w rozdziale "Szukanie pracy" - Szukasz pracy i nie możesz jej znaleźć pomimo tego, że podobno jest to łatwe?
+* Dodany dedykowany wpis do poszukiwania pierwszej pracy lub stażu.
+* Dodany Jenkins w rozdziale [narzędzia](../narzedzia/).
+* Dodane przykładowe arkusze egzaminacyjne [ISTQB](../certyfikacja/istqb.md).
+* Dodane materiały w [Zarządzanie testowaniem](../narzedzia/zarzadzanie-przypadkami-testowymi/)
+* Poprawione linki z poprzedniej platformy gitbooks.io
 
 ### 1.0.1 - 2018-07-30
 
